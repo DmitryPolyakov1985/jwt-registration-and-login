@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://dmitrypolyakov:i2XKZ8cp2309@mern-blog.yvkaq.mongodb.net/node-jwt",
+    "jwtSecret": "secretKey"
+}
